@@ -1,0 +1,7 @@
+C:\Users\MGaming\source\repos\ghfrnbr\ghfrnbr\bin\Debug\ghfrnbr.exe.config
+C:\Users\MGaming\source\repos\ghfrnbr\ghfrnbr\bin\Debug\ghfrnbr.exe
+C:\Users\MGaming\source\repos\ghfrnbr\ghfrnbr\bin\Debug\ghfrnbr.pdb
+C:\Users\MGaming\source\repos\ghfrnbr\ghfrnbr\obj\Debug\ghfrnbr.csproj.AssemblyReference.cache
+C:\Users\MGaming\source\repos\ghfrnbr\ghfrnbr\obj\Debug\ghfrnbr.csproj.CoreCompileInputs.cache
+C:\Users\MGaming\source\repos\ghfrnbr\ghfrnbr\obj\Debug\ghfrnbr.exe
+C:\Users\MGaming\source\repos\ghfrnbr\ghfrnbr\obj\Debug\ghfrnbr.pdb
